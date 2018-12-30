@@ -2,7 +2,7 @@
   "name": "llvm-ffi",
   "version": "0.0.1",
   "description": "FFI Interface for the LLVM C API",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "jest"
   },
@@ -12,5 +12,11 @@
     "ffi"
   ],
   "author": "Dan Fairaizl <fairaizl@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "enum": "^2.5.0",
+    "ffi": "^2.3.0",
+    "ref": "^1.3.5",
+    "ref-array": "^1.2.0"
+  }
 }
