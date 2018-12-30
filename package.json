@@ -1,0 +1,16 @@
+{
+  "name": "llvm-ffi",
+  "version": "0.0.1",
+  "description": "FFI Interface for the LLVM C API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "llvm",
+    "llvm-c",
+    "ffi"
+  ],
+  "author": "Dan Fairaizl <fairaizl@gmail.com>",
+  "license": "MIT"
+}
