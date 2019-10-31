@@ -1,11 +1,8 @@
 {
   "name": "llvm-ffi",
-  "version": "0.0.1",
-  "description": "FFI Interface for the LLVM C API",
-  "main": "lib/index.js",
-  "scripts": {
-    "test": "jest"
-  },
+  "version": "0.1.0",
+  "description": "FFI Interface for the LLVM 8 C API",
+  "main": "index.js",
   "keywords": [
     "llvm",
     "llvm-c",
