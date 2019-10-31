@@ -1,6 +1,6 @@
 {
   "name": "llvm-ffi",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "FFI Interface for the LLVM 8 C API",
   "main": "index.js",
   "keywords": [
